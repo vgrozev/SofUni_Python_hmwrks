@@ -71,35 +71,15 @@ people = [
     },
 ]
 
-males = []
-females = []
-for list_member in people:
-    if list_member['gender'] == 'male':
-        males.append(list_member)
-    else:
-        females.append(list_member)
+#print([male['interests'] for male in people if male['gender'] == 'male'] )
 
-#for male in males:
-#    print(male['gender'])
-#for female in females:
-#    print(female['gender'])
-
-for male in males:
-    for female in females:
-        m_interests = set(male['interests'])
-        f_interests = set(female['interests'])
-        if m_interests.intersection(f_interests):
+for male in [A for A in people if A['gender'] == 'male']:
+    for female in [B for B in people if B['gender'] == 'female']:
+        match = set(male['interests']).intersection(set(female['interests']))
+        if match:
             print("{} and {} общи интереси: {}".format(
-                #male['name'], female['name'], m_interests.intersection(f_interests)
-                male['name'], female['name'], ', '.join(m_interests.intersection(f_interests))
+                male['name'], female['name'], ', '.join(match)
             ))
-            #break
-
-
-
-
-
-
 
 
 
