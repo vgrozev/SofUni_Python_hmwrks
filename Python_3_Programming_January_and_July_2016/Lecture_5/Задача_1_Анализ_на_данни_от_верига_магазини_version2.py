@@ -1,15 +1,20 @@
+# -*- coding: UTF-8 -*-
+
 """
 1. Load the catalog file
 2. Load the sales file
 ...
 """
+
 from datetime import timezone
 
 from pprint import pprint
 
 from Python_3_Programming_January_and_July_2016.Lecture_5.catalog import load_catalog
-from Python_3_Programming_January_and_July_2016.Lecture_5.sales import load_sales, KEY_PRICE, KEY_TS, KEY_ITEM_ID, \
-    KEY_CITY
+from Python_3_Programming_January_and_July_2016.Lecture_5.sales import load_sales, KEY_PRICE, KEY_TS, KEY_ITEM_ID, KEY_CITY
+
+import time
+start_time = time.time()
 
 CATALOG = 'sales-analysis-assignment-all/catalog.csv'
 SALES_1M = 'sales-analysis-assignment-all/sales-1M.csv'
@@ -19,9 +24,9 @@ SALES_100K = 'sales-analysis-assignment-all/sales-100K.csv'
 
 def main():
     catalog = load_catalog(CATALOG)
-    sales = load_sales(SALES_10K)
+    # sales = load_sales(SALES_10K)
     # sales = load_sales(SALES_100K)
-    # sales = load_sales(SALES_1M)
+    sales = load_sales(SALES_1M)
 
     print_total_stats(sales)
     print_top_by_category(sales, catalog)
@@ -30,6 +35,7 @@ def main():
 
     # pprint(sales[:10])
 
+    print("--- %s seconds ---" % (time.time() - start_time))
 
 def print_total_stats(sales):
     """

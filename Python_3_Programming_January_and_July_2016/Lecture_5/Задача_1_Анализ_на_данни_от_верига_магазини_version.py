@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 """
 Разполагаме с каталог на стоки и данни за продажби на голям производител на спортни стоки,
 и трябва да направим анализ на тази информация.
@@ -113,12 +115,17 @@
         print(d_in_utc)
         '2015-12-18 19:50:21+00:00'
 """
+
+
 from datetime import timezone
 import iso8601 as iso_time
 import csv
 import pprint
 from collections import defaultdict
 from progressbar import ProgressBar
+
+import time
+start_time = time.time()
 
 pbar = ProgressBar()  # just a progressbar --> not essential for the solution
 
@@ -168,7 +175,8 @@ def sort_sales(sales_file) -> dict:
 
     with open(sales_file, 'r', newline='', encoding='utf-8') as sales:
         reader = csv.reader(sales)
-        for row in pbar(reader):  # every line of the file as a list  (pbar() is a progress bar )
+        # for row in pbar(reader):  # every line of the file as a list  (pbar() is a progress bar )
+        for row in reader:  # every line of the file as a list
 
             global COUNT
             COUNT += 1
@@ -234,9 +242,9 @@ def top_five(data_dict) -> list:
 # Main section (driver). It can be a main method
 #########################################################
 
-sorted_sales_dict = sort_sales(SALES_10K)
+# sorted_sales_dict = sort_sales(SALES_10K)
 # sorted_sales_dict = sort_sales(SALES_100K)
-# sorted_sales_dict = sort_sales(SALES_1M)
+sorted_sales_dict = sort_sales(SALES_1M)
 
 # pprint.pprint(sorted_sales_dict)  # pretty print for nested dictionaries
 total = sum_total(sorted_sales_dict)
@@ -271,3 +279,5 @@ print('Сума на продажби по час (top 5)')
 print('-----------------------------')
 # convert the tuples to strings and print them separate lines with a ure sign at the end of each
 print(''.join(["    %s: %.2f \u20ac \n" % tup for tup in top_5_dates]))
+
+print("--- %s seconds ---" % (time.time() - start_time))
