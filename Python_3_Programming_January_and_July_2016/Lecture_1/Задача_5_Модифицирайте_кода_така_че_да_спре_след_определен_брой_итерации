@@ -1,0 +1,14 @@
+import turtle
+
+user_iteration = input("Please enter the number of iterations: ")
+iters = int(user_iteration)
+
+g = 134
+l = 120
+count = 0
+while count < iters:
+    turtle.left(g)
+    turtle.forward(l)
+    count += 1
+
+turtle.done()
