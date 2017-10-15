@@ -11,11 +11,16 @@ from datetime import timezone
 from pprint import pprint
 
 from Python_3_Programming_January_and_July_2016.Lecture_5.catalog import load_catalog
+<<<<<<< HEAD
 from Python_3_Programming_January_and_July_2016.Lecture_5.sales import load_sales, KEY_PRICE, KEY_TS, KEY_ITEM_ID, \
     KEY_CITY
 
 import time
 
+from Python_3_Programming_January_and_July_2016.Lecture_5.sales import load_sales, KEY_PRICE, KEY_TS, KEY_ITEM_ID, KEY_CITY
+
+import time
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
 start_time = time.time()
 
 CATALOG = 'sales-analysis-assignment-all/catalog.csv'
@@ -26,9 +31,14 @@ SALES_100K = 'sales-analysis-assignment-all/sales-100K.csv'
 
 def main():
     catalog = load_catalog(CATALOG)
+<<<<<<< HEAD
     sales = load_sales(SALES_10K)
     # sales = load_sales(SALES_100K)
     # sales = load_sales(SALES_1M)
+    # sales = load_sales(SALES_10K)
+    # sales = load_sales(SALES_100K)
+    sales = load_sales(SALES_1M)
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
 
     print_total_stats(sales)
     print_top_by_category(sales, catalog)
@@ -39,7 +49,9 @@ def main():
 
     print("--- %s seconds ---" % (time.time() - start_time))
 
+<<<<<<< HEAD
 
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
 def print_total_stats(sales):
     """
 

@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e2e28b-e464-49c1-84ca-0b21963b66bd" name="Default" comment="zad 1 lec 4">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/sales-analysis-assignment-all/catalog.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/sales-analysis-assignment-all/sales-100K.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/sales-analysis-assignment-all/sales-10K.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/sales-analysis-assignment-all/sales-1M.csv" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Голяма_адача_с_фокуси_v1.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Голяма_адача_с_фокуси_v2.py" />
+=======
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_4/sales.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача: 1_Анализ_на_данни_от_верига_магазини.py" afterPath="" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version2.py" afterPath="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version2.py" />
     </list>
@@ -26,16 +31,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="catalog.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/catalog.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+=======
+      <file leaf-file-name="Задача_1_Анализ_на_данни_от_верига_магазини_version2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Голяма_адача_с_фокуси_v1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Голяма_адача_с_фокуси_v1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,11 +68,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
               <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="34" />
+=======
+      <file leaf-file-name="Задача_1_Анализ_на_данни_от_верига_магазини_version.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Задача_1_Анализ_на_данни_от_верига_магазини_version2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version2.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,6 +93,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -130,6 +154,7 @@
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/sales-analysis-assignment-all/lacho_test.py" />
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/new.py" />
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/sales-analysis-assignment-all/sales-10K.csv" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/sales.py" />
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача: 1_Анализ_на_данни_от_верига_магазини.py" />
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version.py" />
@@ -140,14 +165,27 @@
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version2.py" />
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Голяма_адача_с_фокуси_v2.py" />
         <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Голяма_адача_с_фокуси_v1.py" />
+=======
+        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/catalog.py" />
+        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/sales.py" />
+        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача: 1_Анализ_на_данни_от_верига_магазини.py" />
+        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version.py" />
+        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version2.py" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="61" />
     <option name="y" value="94" />
     <option name="width" value="1920" />
     <option name="height" value="1043" />
+=======
+    <option name="y" value="42" />
+    <option name="width" value="1920" />
+    <option name="height" value="1038" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -183,6 +221,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,12 +242,15 @@
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
               <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
               <item name="Python_3_Programming_January_and_July_2016" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Lecture_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
               <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
               <item name="Python_3_Programming_January_and_July_2016" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
               <item name="Lecture_5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -214,28 +260,41 @@
               <item name="Lecture_5" type="462c0819:PsiDirectoryNode" />
               <item name="sales-analysis-assignment-all" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
               <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
               <item name="Python_3_Programming_January_and_July_2016" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture_6" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+<<<<<<< HEAD
     <property name="full.screen.before.presentation.mode" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6" />
+=======
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/sales-analysis-assignment-all" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_4" />
@@ -256,7 +315,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.Голяма_адача_с_фокуси_v2">
+=======
+  <component name="RunManager" selected="Python.Задача_1_Анализ_на_данни_от_верига_магазини_version2">
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
     <configuration name="Задача: 1_Анализ_на_данни_от_верига_магазини" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,6 +337,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Задача_1_Анализ_на_данни_от_верига_магазини_version2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,6 +355,8 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+=======
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
     <configuration name="Задача_1_Анализ_на_данни_от_верига_магазини_version2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,6 +374,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="Голяма_адача_с_фокуси_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,18 +393,29 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration name="Голяма_адача_с_фокуси_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Задача_2_времето_с_най-големи_продажби" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_4" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Голяма_адача_с_фокуси_v2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_4/Задача_2_времето_с_най-големи_продажби.py" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,6 +484,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.Задача: 1_Анализ_на_данни_от_верига_магазини" />
       <item index="1" class="java.lang.String" itemvalue="Python.Задача_1_Анализ_на_данни_от_верига_магазини_version2" />
@@ -420,6 +499,56 @@
         <item index="2" class="java.lang.String" itemvalue="Python.Задача_1_Анализ_на_данни_от_верига_магазини_version2" />
         <item index="3" class="java.lang.String" itemvalue="Python.Задача_1_Анализ_на_данни_от_верига_магазини_version2 (1)" />
         <item index="4" class="java.lang.String" itemvalue="Python.Задача: 1_Анализ_на_данни_от_верига_магазини" />
+=======
+    <configuration name="lacho_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/sales-analysis-assignment-all" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SofUni_Python_hmwrks" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/lacho_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SofUni_Python_hmwrks" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Задача_2_времето_с_най-големи_продажби" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Задача: 1_Анализ_на_данни_от_верига_магазини" />
+      <item index="2" class="java.lang.String" itemvalue="Python.lacho_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.new" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Задача_1_Анализ_на_данни_от_верига_магазини_version2" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Задача_1_Анализ_на_данни_от_верига_магазини_version2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Задача: 1_Анализ_на_данни_от_верига_магазини" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Задача_2_времето_с_най-големи_продажби" />
+        <item index="3" class="java.lang.String" itemvalue="Python.new" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lacho_test" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       </list>
     </recent_temporary>
   </component>
@@ -489,27 +618,47 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="61" y="94" width="1920" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30149412" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+=======
+    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2854856" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34539473" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17982456" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24866596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33114034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39802632" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24866596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33114034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31907895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20614035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39802632" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -520,9 +669,15 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34539473" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.9371373" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33114034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30149412" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31991053" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33114034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28068304" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20614035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -542,11 +697,24 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+<<<<<<< HEAD
       <option name="time" value="18" />
+=======
+      <option name="time" value="17" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_7_Matchmaking-v2.py" />
+    <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_6_Matchmaking2.py" />
+    <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_7_Matchmaking-v2" />
+    <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_6_Matchmaking.py" />
+    <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_3_Инициали.py" />
+    <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_6_Matchmaking.py" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
     <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_7_Matchmaking-v2" />
     <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_6_Matchmaking2.py" />
     <entry file="file://$PROJECT_DIR$/Lecture_2/Задача_7_Matchmaking-v2" />
@@ -728,6 +896,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/catalog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
     <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_3/Задача_1_Намерете_средната_цена_на_продукт_от_текстов_файл.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -749,6 +927,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача: 1_Анализ_на_данни_от_верига_магазини.py" />
     <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -767,10 +946,16 @@
     <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/sales.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
+=======
+    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/sales.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
           <caret line="50" column="60" lean-forward="false" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="60" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Задача_1_Анализ_на_данни_от_верига_магазини_version2.py" />
     <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/catalog.py" />
     <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/sales.py" />
@@ -788,10 +973,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача: 1_Анализ_на_данни_от_верига_магазини.py" />
+    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Голяма_адача_с_фокуси_v1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1313">
@@ -807,6 +1000,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+>>>>>>> e32bdf80518549223f9881d53020d9be3951584c
           <folding />
         </state>
       </provider>
