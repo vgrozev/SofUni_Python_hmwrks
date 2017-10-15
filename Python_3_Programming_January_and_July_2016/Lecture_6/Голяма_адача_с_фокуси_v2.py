@@ -29,9 +29,9 @@ SALES_100K = 'sales-analysis-assignment-all/sales-100K.csv'
 def main():
     catalog = load_catalog(CATALOG)
 
-    sales = SALES_10K
+    # sales = SALES_10K
     # sales = SALES_100K
-    # sales = SALES_1M
+    sales = SALES_1M
 
     print("Analysys")
 
@@ -76,9 +76,6 @@ def main():
         if max_timestamp is None or ts > max_timestamp:
             max_timestamp = ts
 
-        # calculate total_stats #####################################################
-        #calculate_total_stats(total_amount, sale[KEY_PRICE], sale[KEY_TS], total_count, min_timestamp, max_timestamp)
-
         # calculate top by category #####################################################
         calculate_top(catalog.get(sale[KEY_ITEM_ID], None), sale[KEY_PRICE], amounts_by_category)
 
@@ -87,7 +84,6 @@ def main():
 
         # calculate top by hour #########################################################
         calculate_top(sale[KEY_TS].replace(minute=0, second=0).astimezone(timezone.utc), sale[KEY_PRICE], amounts_by_ts)
-
 
     print_total_stats(total_count, total_amount, min_timestamp, max_timestamp, total_stats_string)
     print_top(amounts_by_category, category_string)
@@ -98,18 +94,6 @@ def main():
     # This is to measure the time to run for the program
     print("\nTime to run: \n--- %s seconds ---" % (time.time() - start_time))
 
-
-def calculate_total_stats(total_count, price, time, total_amount, min_timestamp, max_timestamp):
-    # total_amount += price
-    # total_count += 1
-    # ts = time
-    #
-    # if min_timestamp is None or ts < min_timestamp:
-    #     min_timestamp = ts
-    # if max_timestamp is None or ts > max_timestamp:
-    #     max_timestamp = ts
-
-    pass
 
 def calculate_top(name, price, amounts_dict):
     gen_price = price
@@ -129,7 +113,7 @@ def print_total_stats(total_c, total_a, min_time, max_time, str_to_print: str):
         total_amount=total_a,
         average_price=total_a / total_c if total_c else None,
         min_ts=min_time,
-        max_ts=max_time,))
+        max_ts=max_time, ))
 
 
 def print_top(dict_of_amounts: dict, str_to_print: str):

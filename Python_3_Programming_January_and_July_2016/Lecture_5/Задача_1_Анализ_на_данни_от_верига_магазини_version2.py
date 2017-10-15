@@ -30,9 +30,6 @@ SALES_100K = 'sales-analysis-assignment-all/sales-100K.csv'
 
 def main():
     catalog = load_catalog(CATALOG)
-    sales = load_sales(SALES_10K)
-    # sales = load_sales(SALES_100K)
-    # sales = load_sales(SALES_1M)
     # sales = load_sales(SALES_10K)
     # sales = load_sales(SALES_100K)
     sales = load_sales(SALES_1M)
