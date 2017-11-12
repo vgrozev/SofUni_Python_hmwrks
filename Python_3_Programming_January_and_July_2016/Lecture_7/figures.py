@@ -1,4 +1,3 @@
-
 FIGURES_INPUT_DATA = [
     {"type": "square", "center_x": 0, "center_y": 0, "side": 2, "color": "black"},
     {"type": "square", "center_x": 0, "center_y": 0, "side": 100, "color": "red"},
@@ -24,11 +23,12 @@ class Figure:
 
 
 def create_figures() -> list:
-
     return []
+
 
 def main():
     print("Figures")
+
 
 if __name__ == '__main__':
     main()
