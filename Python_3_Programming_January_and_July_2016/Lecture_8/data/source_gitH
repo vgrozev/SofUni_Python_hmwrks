@@ -1,1 +1,36 @@
 https://github.com/nenni/python3_softunibg
+
+
+===============================================
+
+select
+    id,
+    country,
+    sale_timestamp
+from
+    sale
+where
+    country = 'DE'
+order by
+    price asc, city_name desc
+;
+
+===============================================
+
+insert into catalog (item_key, category) values ('8888888', 'BALLS');
+
+--update catalog set item_key = '777777' where id = 5;
+
+--delete from catalog where id = 5;
+
+select * from catalog;
+
+===============================================
+CREATE TABLE item (
+    id       INTEGER       PRIMARY KEY AUTOINCREMENT,
+    name     VARCHAR (200),
+    vategory VARCHAR (200)
+);
+
+===============================================
+
