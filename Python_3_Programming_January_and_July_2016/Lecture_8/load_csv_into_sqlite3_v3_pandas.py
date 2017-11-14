@@ -8,6 +8,8 @@ import pandas as pd
 import sqlite3
 import sqlalchemy
 
+CATALOG_FILENAME = 'csv_files/catalog.csv'
+
 # DB_FILENAME = 'data/sales-1M.db'
 # DB_FILENAME = 'data/sales-10K.db'
 DB_FILENAME = 'data/sales-100K.db'
@@ -15,8 +17,6 @@ DB_FILENAME = 'data/sales-100K.db'
 # SALES_FILENAME = 'csv_files/sales-1M.csv'
 # SALES_FILENAME = 'csv_files/sales-10K.csv'
 SALES_FILENAME = 'csv_files/sales-100K.csv'
-
-CATALOG_FILENAME = 'csv_files/catalog.csv'
 
 
 def main():
