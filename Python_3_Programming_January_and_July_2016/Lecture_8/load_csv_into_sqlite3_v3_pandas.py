@@ -7,21 +7,25 @@
 import pandas as pd
 import sqlite3
 import sqlalchemy
+import time
 
 CATALOG_FILENAME = 'csv_files/catalog.csv'
 
 # DB_FILENAME = 'data/sales-1M.db'
-# DB_FILENAME = 'data/sales-10K.db'
-DB_FILENAME = 'data/sales-100K.db'
+DB_FILENAME = 'data/sales-10K.db'
+# DB_FILENAME = 'data/sales-100K.db'
 
 # SALES_FILENAME = 'csv_files/sales-1M.csv'
-# SALES_FILENAME = 'csv_files/sales-10K.csv'
-SALES_FILENAME = 'csv_files/sales-100K.csv'
+SALES_FILENAME = 'csv_files/sales-10K.csv'
+
+
+# SALES_FILENAME = 'csv_files/sales-100K.csv'
 
 
 def main():
-    with sqlite3.connect(DB_FILENAME, isolation_level=None) as connection:
+    start_time = time.time()
 
+    with sqlite3.connect(DB_FILENAME, isolation_level=None) as connection:
         print("Connection opened")
 
         cursor = connection.cursor()
@@ -35,6 +39,8 @@ def main():
 
         import_sales_into_db(engine, SALES_FILENAME)
         print("Sales imported")
+
+    print("--- %s seconds ---" % (time.time() - start_time))
 
 
 def create_tables(cursor):
@@ -67,7 +73,8 @@ def import_catalog_into_db(engine, catalog_file_name):
 
 
 def import_sales_into_db(engine, sales_file_name):
-    df = pd.read_csv(sales_file_name, names=['item_id', 'country', 'city_name', 'sale_timestamp', 'price'])
+
+    df = pd.read_csv(sales_file_name, parse_dates=['sale_timestamp'], names=['item_id', 'country', 'city_name', 'sale_timestamp', 'price'])
     df.to_sql('sale', engine, if_exists='append', index=False)
 
 
