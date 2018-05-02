@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/01. Square Area.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/02. Inches to Centimeters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/03. Greeting by Name.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/04. Concatenate Data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/05. Trapeziod Area.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/06. Circle Area and Perimeter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/07. 2D Rectangle Area.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/08. Triangle Area.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/09. Celsius to Fahrenheit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/10. Radians to Degrees.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/11. USD to BGN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/12. Currency Converter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/01. Training Lab.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/02. Зеленчукова борса.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/01.Hello-Python.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/01.Hello-Python.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/02.Expression.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/02.Expression.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/03.Nums 1...20.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/03.Nums 1...20.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/04. Triangle of 55 Stars.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/04. Triangle of 55 Stars.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/05. Rectangle Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/05. Rectangle Area.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/06. Square of Stars.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/06. Square of Stars.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/2. Simple-Calculations-Exercises.docx" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Simple-Calculations-Exercises.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +26,8 @@
       <file leaf-file-name="02. Зеленчукова борса.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/02. Зеленчукова борса.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -352,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525230076621</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="reformat">
+      <created>1525243813954</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525243813954</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -362,12 +348,12 @@
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3366228" sideWeight="0.50213444" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3366228" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3366228" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49786553" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16488793" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16488793" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Graph Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -738,8 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/02. Зеленчукова борса.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
