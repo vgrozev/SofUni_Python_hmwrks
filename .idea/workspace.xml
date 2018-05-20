@@ -2,22 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/01. Excellent Result.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/02. Excellent or Not.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/03. Even or Odd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/04. Greater Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/05. Number 0...9 to Text.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/06. Bonus Score.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/07. Sum Seconds.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/08. Metric Converter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/09. Password Guess.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/10. Number 100...200.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/11. Equal Words.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/12. Speed Info.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/13. Area of Figures.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/14. Time + 15 Minutes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/15. 3 Equal Numbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/16. Number 0...100 to Text.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/16. Number 0...100 to Text_v2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/01. Personal Titles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/02. Small Shop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/03. Point in Rectangle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/04. Fruit or Vegetable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/05. Invalid Number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/06. Point on Rectangle Border.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/01.Hello-Python.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/01.Hello-Python.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/02.Expression.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/02.Expression.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/03.Nums 1...20.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/03.Nums 1...20.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/04. Triangle of 55 Stars.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/04. Triangle of 55 Stars.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/05. Rectangle Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/05. Rectangle Area.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/06. Square of Stars.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/06. Square of Stars.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/1. First-Steps-in-Coding-Exercises.docx" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/1. First-Steps-in-Coding-Exercises.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/01. Square Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/01. Square Area.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/02. Inches to Centimeters.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/02. Inches to Centimeters.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/03. Greeting by Name.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/03. Greeting by Name.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/04. Concatenate Data.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/04. Concatenate Data.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/05. Trapeziod Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/05. Trapeziod Area.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/06. Circle Area and Perimeter.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/06. Circle Area and Perimeter.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/07. 2D Rectangle Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/07. 2D Rectangle Area.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/08. Triangle Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/08. Triangle Area.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/09. Celsius to Fahrenheit.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/09. Celsius to Fahrenheit.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/10. Radians to Degrees.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/10. Radians to Degrees.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/11. USD to BGN.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/11. USD to BGN.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/12. Currency Converter.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/12. Currency Converter.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Simple-Calculations-Exercises.docx" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Simple-Calculations-Exercises.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/13. Training Lab.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/13. Training Lab.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/14. Зеленчукова борса.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/14. Зеленчукова борса.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/15. Поправка на плочки.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/15. Поправка на плочки.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/16. Money.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/16. Money.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/17. Дневна печалба.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/17. Дневна печалба.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/01. Excellent Result.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/01. Excellent Result.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/02. Excellent or Not.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/02. Excellent or Not.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/03. Even or Odd.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/03. Even or Odd.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/04. Greater Number.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/04. Greater Number.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/05. Number 0...9 to Text.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/05. Number 0...9 to Text.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/06. Bonus Score.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/06. Bonus Score.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/07. Sum Seconds.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/07. Sum Seconds.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/08. Metric Converter.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/08. Metric Converter.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/09. Password Guess.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/09. Password Guess.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/10. Number 100...200.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/10. Number 100...200.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/11. Equal Words.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/11. Equal Words.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/12. Speed Info.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/12. Speed Info.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/13. Area of Figures.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/13. Area of Figures.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/14. Time + 15 Minutes.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/14. Time + 15 Minutes.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/15. 3 Equal Numbers.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/15. 3 Equal Numbers.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/16. Number 0...100 to Text.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/16. Number 0...100 to Text.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/2. Simple-Calculations-Exercises.docx" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/2. Simple-Calculations-Exercises.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/17. Transport Price.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/17. Transport Price.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/18. Поспаливата котка Том.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/18. Поспаливата котка Том.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/19. Harvest.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/19. Harvest.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/20. Furm.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/20. Furm.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,101 +66,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="08. Triangle Area.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/08. Triangle Area.py">
+      <file leaf-file-name="06. Point on Rectangle Border.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/06. Point on Rectangle Border.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02. Excellent or Not.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/02. Excellent or Not.py">
+      <file leaf-file-name="02. Small Shop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/02. Small Shop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01. Excellent Result.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/01. Excellent Result.py">
+      <file leaf-file-name="03. Point in Rectangle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/03. Point in Rectangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13. Area of Figures.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/13. Area of Figures.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03. Even or Odd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/03. Even or Odd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14. Time + 15 Minutes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/14. Time + 15 Minutes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="15. 3 Equal Numbers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/15. 3 Equal Numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="16. Number 0...100 to Text.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/16. Number 0...100 to Text.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="30" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06. Circle Area and Perimeter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/06. Circle Area and Perimeter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="07. 2D Rectangle Area.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/07. 2D Rectangle Area.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -142,7 +109,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>KEY_COUNTRY</find>
+      <find>bla \= 13\n\nbla \= \&quot;bla\&quot;</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -150,26 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_7/figures.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/data" />
-        <option value="[Connection] CONSOLE - Connection 1" />
-        <option value="[Connection] CONSOLE - Connection 2" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/sqlite_demo.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/catalog.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/sales.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/__init__.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/demo_with_file_arguments.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/zadacha_1.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/load_csv_into_sqlite3.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/load_csv_into_sqlite3_v2.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/load_csv_into_sqlite3_v3.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/load_csv_into_sqlite3_v3_pandas.py" />
-        <option value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/data/source_gitH" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/01.Hello-Python.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/02.Expression.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/03.Nums 1...20.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/01.Първи стъпки в програмирането/05.Квадрат_от_звездички.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/01. Square Area.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/02. Inches to Centimeters.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/03. Greeting by Name.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/04. Concatenate Data.py" />
@@ -201,13 +152,33 @@
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/03. Excellent Result.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/01. Excellent Result.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/16. Number 0...100 to Text.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/17. Transport Price.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/18. Поспаливата котка Том.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/19. Harvest.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/20. Furm.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/15. Поправка на плочки.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/16. Money.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/17. Дневна печалба.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/08. Metric Converter.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/ewr.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/test.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/01. Personal Titles.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/16. Number 0...100 to Text.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/16. Number 0...100 to Text_v2.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/03. Point in Rectangle.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/04. Fruit or Vegetable.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/05. Invalid Number.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/06. Point on Rectangle Border.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/02. Small Shop.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/06. Point on Rectangle Border.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/02. Small Shop.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="y" value="24" />
-    <option name="width" value="1840" />
-    <option name="height" value="1056" />
+    <option name="x" value="1920" />
+    <option name="width" value="1358" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -227,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,12 +215,13 @@
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
               <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
               <item name="Programming Basics with Python - април 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="06. Simple-Conditions.pptx" type="462c0819:PsiDirectoryNode" />
+              <item name="04. Complex-Conditions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,6 +235,7 @@
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/csv_files" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/csv_files" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_7/sales-analysis-assignment-all" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8" />
@@ -282,106 +254,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.16. Number 0...100 to Text">
-    <configuration name="12. Speed Info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.02. Small Shop (1)">
+    <configuration name="02. Small Shop (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/12. Speed Info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/02. Small Shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="13. Area of Figures" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02. Small Shop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/13. Area of Figures.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/02. Small Shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="14. Time + 15 Minutes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03. Point in Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/14. Time + 15 Minutes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/03. Point in Rectangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="15. 3 Equal Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04. Fruit or Vegetable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/15. 3 Equal Numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/04. Fruit or Vegetable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="16. Number 0...100 to Text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05. Invalid Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/16. Number 0...100 to Text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Complex-Conditions/05. Invalid Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.12. Speed Info" />
-      <item index="1" class="java.lang.String" itemvalue="Python.13. Area of Figures" />
-      <item index="2" class="java.lang.String" itemvalue="Python.14. Time + 15 Minutes" />
-      <item index="3" class="java.lang.String" itemvalue="Python.15. 3 Equal Numbers" />
-      <item index="4" class="java.lang.String" itemvalue="Python.16. Number 0...100 to Text" />
+      <item index="0" class="java.lang.String" itemvalue="Python.02. Small Shop" />
+      <item index="1" class="java.lang.String" itemvalue="Python.03. Point in Rectangle" />
+      <item index="2" class="java.lang.String" itemvalue="Python.04. Fruit or Vegetable" />
+      <item index="3" class="java.lang.String" itemvalue="Python.05. Invalid Number" />
+      <item index="4" class="java.lang.String" itemvalue="Python.02. Small Shop (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.16. Number 0...100 to Text" />
-        <item index="1" class="java.lang.String" itemvalue="Python.15. 3 Equal Numbers" />
-        <item index="2" class="java.lang.String" itemvalue="Python.14. Time + 15 Minutes" />
-        <item index="3" class="java.lang.String" itemvalue="Python.13. Area of Figures" />
-        <item index="4" class="java.lang.String" itemvalue="Python.12. Speed Info" />
+        <item index="0" class="java.lang.String" itemvalue="Python.02. Small Shop (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.05. Invalid Number" />
+        <item index="2" class="java.lang.String" itemvalue="Python.04. Fruit or Vegetable" />
+        <item index="3" class="java.lang.String" itemvalue="Python.03. Point in Rectangle" />
+        <item index="4" class="java.lang.String" itemvalue="Python.02. Small Shop" />
       </list>
     </recent_temporary>
   </component>
@@ -448,12 +420,32 @@
       <option name="project" value="LOCAL" />
       <updated>1525243929964</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="reformat">
+      <created>1526254362552</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526254362552</updated>
+    </task>
+    <task id="LOCAL-00009" summary="novi zadachi">
+      <created>1526356481714</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526356481714</updated>
+    </task>
+    <task id="LOCAL-00010" summary="novi zadachi">
+      <created>1526683551383</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1526683551383</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1840" height="1056" extended-state="4" />
-    <editor active="true" />
+    <frame x="1920" y="0" width="1358" height="1080" extended-state="4" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -461,22 +453,22 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3366228" sideWeight="0.50213444" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858709" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21710527" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49786553" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11928651" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18064025" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Graph Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299639" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22008547" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3985043" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -489,17 +481,17 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858709" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3366228" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30235043" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49786553" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1664888" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12433298" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Graph Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986711" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299639" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -511,7 +503,8 @@
       <path value="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016" />
     </ignored-roots>
     <MESSAGE value="reformat" />
-    <option name="LAST_COMMIT_MESSAGE" value="reformat" />
+    <MESSAGE value="novi zadachi" />
+    <option name="LAST_COMMIT_MESSAGE" value="novi zadachi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -521,131 +514,19 @@
           <line>800</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_5/Задача_1_Анализ_на_данни_от_верига_магазини_version.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_6/Голяма_адача_с_фокуси_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1845">
-          <caret line="123" column="61" lean-forward="true" selection-start-line="123" selection-start-column="61" selection-end-line="123" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/load_csv_into_sqlite3_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/demos/demo_with_file_arguments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/demos/sales.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="51" column="54" lean-forward="false" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/demos/sqlite_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/load_csv_into_sqlite3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_4/2ra rezults.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_3/catalog_full.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_3/catalog_plus_75.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_3/combined.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_3/catalog_sample.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/01.Hello-Python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/02.Expression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/03.Nums 1...20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/04. Triangle of 55 Stars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/05. Rectangle Area.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/05. Rectangle Area.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/01. Square Area.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/01. Square Area.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
@@ -666,241 +547,316 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/02. Inches to Centimeters.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/02. Inches to Centimeters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/03. Greeting by Name.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/03. Greeting by Name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/02. Зеленчукова борса.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/14. Зеленчукова борса.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/01. Training Lab.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/13. Training Lab.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/06. Square of Stars.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/06. Square of Stars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/11. USD to BGN.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/11. USD to BGN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/10. Radians to Degrees.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/10. Radians to Degrees.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/09. Celsius to Fahrenheit.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/09. Celsius to Fahrenheit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/12. Currency Converter.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/12. Currency Converter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/04. Concatenate Data.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/04. Concatenate Data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/04. Greater Number.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/04. Greater Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/05. Number 0...9 to Text.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/05. Number 0...9 to Text.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/06. Bonus Score.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/07. Sum Seconds.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/08. Metric Converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/09. Password Guess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/10. Number 100...200.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/11. Equal Words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/12. Speed Info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/05. Trapeziod Area.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/05. Trapeziod Area.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/06. Circle Area and Perimeter.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/06. Circle Area and Perimeter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/07. 2D Rectangle Area.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/07. 2D Rectangle Area.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/08. Triangle Area.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/08. Triangle Area.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/13. Area of Figures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/14. Time + 15 Minutes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/15. 3 Equal Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/01. Excellent Result.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/01. Excellent Result.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/03. Excellent Result.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/02. Excellent or Not.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/03. Even or Odd.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/03. Excellent Result.py" />
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/03. Even or Odd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/15. Поправка на плочки.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/16. Money.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/17. Дневна печалба.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/17. Transport Price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/ewr.py" />
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/test.py" />
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/06. Bonus Score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/07. Sum Seconds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/08. Metric Converter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/09. Password Guess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/02. Excellent or Not.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/10. Number 100...200.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/11. Equal Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/12. Speed Info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/18. Поспаливата котка Том.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/04. Fruit or Vegetable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/05. Invalid Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/19. Harvest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/20. Furm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/01. Personal Titles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/16. Number 0...100 to Text_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/16. Number 0...100 to Text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/15. 3 Equal Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/14. Time + 15 Minutes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/13. Area of Figures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/02. Small Shop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/16. Number 0...100 to Text.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/06. Point on Rectangle Border.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="30" selection-end-column="19" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/03. Point in Rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
