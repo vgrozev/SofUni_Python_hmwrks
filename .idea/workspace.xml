@@ -2,59 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/16. Number 0...100 to Text_v2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/01. Personal Titles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/02. Small Shop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/03. Point in Rectangle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/04. Fruit or Vegetable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/05. Invalid Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/06. Point on Rectangle Border.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/01.Hello-Python.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/01.Hello-Python.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/02.Expression.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/02.Expression.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/03.Nums 1...20.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/03.Nums 1...20.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/04. Triangle of 55 Stars.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/04. Triangle of 55 Stars.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/05. Rectangle Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/05. Rectangle Area.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/06. Square of Stars.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/06. Square of Stars.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Първи стъпки в програмирането/1. First-Steps-in-Coding-Exercises.docx" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/1. First-Steps-in-Coding-Exercises.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/01. Square Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/01. Square Area.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/02. Inches to Centimeters.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/02. Inches to Centimeters.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/03. Greeting by Name.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/03. Greeting by Name.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/04. Concatenate Data.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/04. Concatenate Data.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/05. Trapeziod Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/05. Trapeziod Area.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/06. Circle Area and Perimeter.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/06. Circle Area and Perimeter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/07. 2D Rectangle Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/07. 2D Rectangle Area.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/08. Triangle Area.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/08. Triangle Area.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/09. Celsius to Fahrenheit.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/09. Celsius to Fahrenheit.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/10. Radians to Degrees.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/10. Radians to Degrees.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/11. USD to BGN.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/11. USD to BGN.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/12. Currency Converter.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/12. Currency Converter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Simple-Calculations-Exercises.docx" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Simple-Calculations-Exercises.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/13. Training Lab.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/13. Training Lab.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/14. Зеленчукова борса.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/14. Зеленчукова борса.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/15. Поправка на плочки.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/15. Поправка на плочки.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/16. Money.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/16. Money.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/17. Дневна печалба.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/17. Дневна печалба.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/01. Excellent Result.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/01. Excellent Result.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/02. Excellent or Not.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/02. Excellent or Not.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/03. Even or Odd.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/03. Even or Odd.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/04. Greater Number.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/04. Greater Number.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/05. Number 0...9 to Text.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/05. Number 0...9 to Text.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/06. Bonus Score.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/06. Bonus Score.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/07. Sum Seconds.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/07. Sum Seconds.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/08. Metric Converter.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/08. Metric Converter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/09. Password Guess.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/09. Password Guess.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/10. Number 100...200.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/10. Number 100...200.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/11. Equal Words.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/11. Equal Words.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/12. Speed Info.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/12. Speed Info.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/13. Area of Figures.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/13. Area of Figures.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/14. Time + 15 Minutes.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/14. Time + 15 Minutes.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/15. 3 Equal Numbers.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/15. 3 Equal Numbers.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/16. Number 0...100 to Text.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/16. Number 0...100 to Text.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/2. Simple-Calculations-Exercises.docx" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/2. Simple-Calculations-Exercises.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/17. Transport Price.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/17. Transport Price.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/18. Поспаливата котка Том.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/18. Поспаливата котка Том.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/19. Harvest.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/19. Harvest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/20. Furm.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/20. Furm.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -441,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526683551383</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="novi zadachi">
+      <created>1526844050326</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1526844050326</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
