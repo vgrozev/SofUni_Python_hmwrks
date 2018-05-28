@@ -5,8 +5,9 @@ y2 = float(input())
 x = float(input())
 y = float(input())
 
-if (x >= x1) and (x <= x2) and (y >= y1) and (y <= y2):
-    print("Inside")
+if ((x == x1) or (x == x2)) and (y1 <= y <=y2):
+    print("Border")
+elif ((y == y1) or (y == y2)) and (x1 <= x <= x2):
+    print("Border")
 else:
-    print("Outside")
-
+    print("Inside / Outside")
