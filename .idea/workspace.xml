@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/15. Пътешествие.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/16. Операции между числа.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/17.  Match Tickets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/18. Хотелска стая.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/03. On Time for the Exam.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/14. On Time for the Exam.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/01. Numbers from 1 to 100.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/02. Numbers Ending in 7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/03. Latin Letters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/04. Sum Numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/05. Max Number.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/17.  Match Tickets.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/17.  Match Tickets.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,41 +19,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="15. Пътешествие.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/15. Пътешествие.py">
+      <file leaf-file-name="01. Numbers from 1 to 100.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/01. Numbers from 1 to 100.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="30">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="16. Операции между числа.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/16. Операции между числа.py">
+      <file leaf-file-name="02. Numbers Ending in 7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/02. Numbers Ending in 7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="17.  Match Tickets.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/17.  Match Tickets.py">
+      <file leaf-file-name="03. Latin Letters.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/03. Latin Letters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+            <state relative-caret-position="30">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="18. Хотелска стая.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/18. Хотелска стая.py">
+      <file leaf-file-name="04. Sum Numbers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/04. Sum Numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05. Max Number.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/05. Max Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,11 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/6. Simple-Conditions.pptx/05. Number 0...9 to Text.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/6. Simple-Conditions.pptx/06. Bonus Score.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/6. Simple-Conditions.pptx/07. Sum Seconds.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/08. Metric Converter.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/09. Password Guess.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/10. Number 100...200.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/11. Equal Words.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/12. Speed Info.py" />
@@ -131,9 +137,14 @@
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/13. Point in the Figure.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/03. On Time for the Exam.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/15. Пътешествие.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/18. Хотелска стая.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/16. Операции между числа.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/17.  Match Tickets.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/18. Хотелска стая.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/01. Numbers from 1 to 100.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/02. Numbers Ending in 7.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/03. Latin Letters.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/04. Sum Numbers.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/05. Max Number.py" />
       </list>
     </option>
   </component>
@@ -161,6 +172,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,24 +189,16 @@
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
               <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
               <item name="Programming Basics with Python - април 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="04. Complex-Conditions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
-              <item name="Programming Basics with Python - април 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="04. Complex-Conditions" type="462c0819:PsiDirectoryNode" />
-              <item name="Test Problems" type="462c0819:PsiDirectoryNode" />
+              <item name="05. Loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
@@ -224,71 +228,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.18. Хотелска стая">
-    <configuration name="03. On Time for the Exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04. Sum Numbers">
+    <configuration name="01. Numbers from 1 to 100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/14. On Time for the Exam.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/01. Numbers from 1 to 100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="15. Пътешествие" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02. Numbers Ending in 7" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/15. Пътешествие.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/02. Numbers Ending in 7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="16. Операции между числа" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03. Latin Letters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/16. Операции между числа.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/03. Latin Letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="17.  Match Tickets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04. Sum Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/17.  Match Tickets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/04. Sum Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,19 +315,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.03. On Time for the Exam" />
-      <item index="1" class="java.lang.String" itemvalue="Python.15. Пътешествие" />
-      <item index="2" class="java.lang.String" itemvalue="Python.16. Операции между числа" />
-      <item index="3" class="java.lang.String" itemvalue="Python.17.  Match Tickets" />
-      <item index="4" class="java.lang.String" itemvalue="Python.18. Хотелска стая" />
+      <item index="0" class="java.lang.String" itemvalue="Python.18. Хотелска стая" />
+      <item index="1" class="java.lang.String" itemvalue="Python.01. Numbers from 1 to 100" />
+      <item index="2" class="java.lang.String" itemvalue="Python.02. Numbers Ending in 7" />
+      <item index="3" class="java.lang.String" itemvalue="Python.03. Latin Letters" />
+      <item index="4" class="java.lang.String" itemvalue="Python.04. Sum Numbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.18. Хотелска стая" />
-        <item index="1" class="java.lang.String" itemvalue="Python.17.  Match Tickets" />
-        <item index="2" class="java.lang.String" itemvalue="Python.16. Операции между числа" />
-        <item index="3" class="java.lang.String" itemvalue="Python.15. Пътешествие" />
-        <item index="4" class="java.lang.String" itemvalue="Python.03. On Time for the Exam" />
+        <item index="0" class="java.lang.String" itemvalue="Python.04. Sum Numbers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.03. Latin Letters" />
+        <item index="2" class="java.lang.String" itemvalue="Python.02. Numbers Ending in 7" />
+        <item index="3" class="java.lang.String" itemvalue="Python.01. Numbers from 1 to 100" />
+        <item index="4" class="java.lang.String" itemvalue="Python.18. Хотелска стая" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527550654750</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="novi zadachi">
+      <created>1527573269076</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1527573269076</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -447,7 +458,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19846492" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49786553" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17342582" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17929563" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Graph Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -517,35 +528,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/08. Triangle Area.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/01. Excellent Result.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/03. Excellent Result.py" />
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/03. Even or Odd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/15. Поправка на плочки.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/16. Money.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -762,7 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,7 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,7 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -818,7 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -826,7 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,38 +807,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/15. Пътешествие.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/16. Операции между числа.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/17.  Match Tickets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/18. Хотелска стая.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/01. Numbers from 1 to 100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/02. Numbers Ending in 7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/03. Latin Letters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/04. Sum Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/05. Max Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
