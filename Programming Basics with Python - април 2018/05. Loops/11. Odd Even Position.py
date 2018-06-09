@@ -51,3 +51,4 @@ print("OddMax =", odd_max)
 print("EvenSum = {:g}".format(even_sum))
 print("EvenMin =", even_min)
 print("EvenMax =", even_max)
+
