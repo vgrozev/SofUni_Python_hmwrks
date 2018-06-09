@@ -35,7 +35,7 @@ else:
             if number > odd_max:
                 odd_max = number
 
-# fix the trailing zerows, if value is not 'No'
+# fix the trailing zeros, if value is not 'No'
 if type(odd_min) != str:
     odd_min = format(float(odd_min), 'g')
 if type(odd_max) != str:
