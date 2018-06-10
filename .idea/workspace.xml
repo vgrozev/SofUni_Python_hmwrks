@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/08. Odd Even Sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/09. Vowels Sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/10. Half Sum Element.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd Even Position.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/6. Drawing-with-Loops-Exercises.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/01. Rectangle of 10 x 10 Stars.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/07. Left and Right Sum.py" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/07. Left and Right Sum.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,9 +15,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11. Odd Even Position.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd Even Position.py">
+    <leaf>
+      <file leaf-file-name="01. Rectangle of 10 x 10 Stars.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/01. Rectangle of 10 x 10 Stars.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -53,12 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/01. Excellent Result.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions.pptx/16. Number 0...100 to Text.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/17. Transport Price.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/18. Поспаливата котка Том.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/19. Harvest.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions/Test Problems/20. Furm.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/15. Поправка на плочки.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/16. Money.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Прости пресмятания/Test Problems/17. Дневна печалба.py" />
@@ -84,7 +76,6 @@
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/09. Day of Week.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/10. Animal Type.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/11. Cinema.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/12. Volleyball.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/13. Point in the Figure.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions/Test Problems/03. On Time for the Exam.py" />
@@ -103,13 +94,21 @@
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/09. Vowels Sum.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/10. Half Sum Element.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd / Even Position.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd Even Position.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/12. Equal Pairs.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/04. Histogram.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/14. Деление без остатък.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/13. Histogram.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/15. Умната Лили.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/01. Rectangle of 10 x 10 Stars.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="257" />
     <option name="y" value="24" />
-    <option name="width" value="960" />
+    <option name="width" value="1663" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -146,14 +145,14 @@
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
               <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
               <item name="Programming Basics with Python - април 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="05. Loops" type="462c0819:PsiDirectoryNode" />
+              <item name="06. Drawing-with-Loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,11 +161,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops" />
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions" />
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
       <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/csv_files" />
-      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_7/sales-analysis-assignment-all" />
-      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8" />
-      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -187,8 +186,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10. Half Sum Element">
-    <configuration name="06. Min Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.15. Умната Лили">
+    <configuration name="11. Odd Even Position" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -200,12 +199,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/06. Min Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd Even Position.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="07. Left and Right Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12. Equal Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -217,76 +216,76 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/07. Left and Right Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/12. Equal Pairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="08. Odd Even Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13. Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/08. Odd Even Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/13. Histogram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="09. Vowels Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="14. Деление без остатък" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/09. Vowels Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/14. Деление без остатък.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="10. Half Sum Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15. Умната Лили" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SofUni_Python_hmwrks" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/10. Half Sum Element.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/15. Умната Лили.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.06. Min Number" />
-      <item index="1" class="java.lang.String" itemvalue="Python.07. Left and Right Sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.08. Odd Even Sum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.09. Vowels Sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.10. Half Sum Element" />
+      <item index="0" class="java.lang.String" itemvalue="Python.11. Odd Even Position" />
+      <item index="1" class="java.lang.String" itemvalue="Python.12. Equal Pairs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.13. Histogram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.14. Деление без остатък" />
+      <item index="4" class="java.lang.String" itemvalue="Python.15. Умната Лили" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.10. Half Sum Element" />
-        <item index="1" class="java.lang.String" itemvalue="Python.09. Vowels Sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.08. Odd Even Sum" />
-        <item index="3" class="java.lang.String" itemvalue="Python.07. Left and Right Sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.06. Min Number" />
+        <item index="0" class="java.lang.String" itemvalue="Python.15. Умната Лили" />
+        <item index="1" class="java.lang.String" itemvalue="Python.14. Деление без остатък" />
+        <item index="2" class="java.lang.String" itemvalue="Python.13. Histogram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.12. Equal Pairs" />
+        <item index="4" class="java.lang.String" itemvalue="Python.11. Odd Even Position" />
       </list>
     </recent_temporary>
   </component>
@@ -416,11 +415,53 @@
       <option name="project" value="LOCAL" />
       <updated>1528172282833</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="novi zadachi loop">
+      <created>1528286036684</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1528286036684</updated>
+    </task>
+    <task id="LOCAL-00018" summary="novi zadachi loop">
+      <created>1528512860656</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1528512860656</updated>
+    </task>
+    <task id="LOCAL-00019" summary="novi zadachi loop">
+      <created>1528512886345</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1528512886345</updated>
+    </task>
+    <task id="LOCAL-00020" summary="novi zadachi loop">
+      <created>1528514354846</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1528514354846</updated>
+    </task>
+    <task id="LOCAL-00021" summary="novi zadachi loop">
+      <created>1528569150620</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1528569150620</updated>
+    </task>
+    <task id="LOCAL-00022" summary="novi zadachi loop">
+      <created>1528588830193</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1528588830193</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
+    <frame x="257" y="24" width="1663" height="1056" extended-state="4" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -428,35 +469,22 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3366228" sideWeight="0.50213444" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858709" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35635966" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49786553" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1814301" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16635746" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Graph Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22807017" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299639" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3366228" sideWeight="0.50213444" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858709" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Graph Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49786553" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1875" sideWeight="0.49786553" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1814301" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Graph Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299639" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32785088" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -510,46 +538,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/08. Metric Converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/09. Password Guess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/02. Excellent or Not.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/10. Number 100...200.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/11. Equal Words.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/12. Speed Info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -648,13 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/lib/python3.5/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dragons.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -715,13 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -792,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="3" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,7 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -816,7 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,7 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,7 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -840,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -848,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,27 +827,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="11" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd / Even Position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd / Even Position.py" />
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/10. Half Sum Element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/12. Equal Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd Even Position.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="23" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/14. Деление без остатък.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/13. Histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/15. Умната Лили.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/01. Rectangle of 10 x 10 Stars.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
