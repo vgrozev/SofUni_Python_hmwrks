@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/01. Hello World.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/02. Person Info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/03. Extended Person Info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/04. Numbers from 1 to 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/05. Print Numbers with Step.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/01. Blank Receipt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/7. Advanced-Loops-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/08. Exam Preparation/8. Exam-Preparation-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/02. Sign of Integer Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/03. Printing Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/04. Draw a Filled Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/04a. Draw a Filled Square_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/05. Calculate Triangle Area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/06. Math Power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07. Greater of Two Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07a. Greater of Two Values_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/08. Multiply Evens by Odds.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SofUni_Python_hmwrks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SofUni_Python_hmwrks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/02. Person Info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/02. Person Info.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01. Blank Receipt.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/01. Blank Receipt.py">
+      <file leaf-file-name="08. Multiply Evens by Odds.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/08. Multiply Evens by Odds.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="473">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -54,15 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/03. Latin Letters.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/04. Sum Numbers.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/05. Max Number.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/06. Min Number.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/07. Left and Right Sum.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/08. Odd Even Sum.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/09. Vowels Sum.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/10. Half Sum Element.py" />
-        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd / Even Position.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd Even Position.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/12. Equal Pairs.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/04. Histogram.py" />
@@ -101,10 +99,19 @@
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/14. Stupid Password Generator.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/01. Hello World.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/03. Extended Person Info.py" />
-        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/02. Person Info.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/04. Numbers from 1 to 10.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/05. Print Numbers with Step.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/01. Blank Receipt.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/02. Person Info.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/02. Sign of Integer Number.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/03. Printing Triangle.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/04. Draw a Filled Square.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/04. Draw a Filled Square_v2.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/05. Calculate Triangle Area.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/06. Math Power.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07. Greater of Two Values.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07. Greater of Two Values_v2.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/08. Multiply Evens by Odds.py" />
       </list>
     </option>
   </component>
@@ -152,18 +159,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops" />
-      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions" />
-      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops" />
-      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Simple-Conditions" />
-      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/csv_files" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/demos" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/data" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/csv_files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/08. Exam Preparation" />
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops" />
+      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code" />
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops" />
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/04. Complex-Conditions" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -178,8 +185,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05. Print Numbers with Step">
-    <configuration name="01. Hello World" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.08. Multiply Evens by Odds">
+    <configuration name="05. Calculate Triangle Area" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SofUni_Python_hmwrks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,17 +194,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/01. Hello World.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/05. Calculate Triangle Area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="02. Person Info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="06. Math Power" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SofUni_Python_hmwrks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,17 +212,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/02. Person Info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/06. Math Power.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="03. Extended Person Info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="07. Greater of Two Values" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SofUni_Python_hmwrks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,17 +230,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/03. Extended Person Info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07. Greater of Two Values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="04. Numbers from 1 to 10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="07. Greater of Two Values_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SofUni_Python_hmwrks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,17 +248,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/04. Numbers from 1 to 10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07a. Greater of Two Values_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="05. Print Numbers with Step" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="08. Multiply Evens by Odds" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SofUni_Python_hmwrks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,30 +266,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/05. Print Numbers with Step.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/08. Multiply Evens by Odds.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.01. Hello World" />
-      <item itemvalue="Python.02. Person Info" />
-      <item itemvalue="Python.03. Extended Person Info" />
-      <item itemvalue="Python.04. Numbers from 1 to 10" />
-      <item itemvalue="Python.05. Print Numbers with Step" />
+      <item itemvalue="Python.05. Calculate Triangle Area" />
+      <item itemvalue="Python.06. Math Power" />
+      <item itemvalue="Python.07. Greater of Two Values" />
+      <item itemvalue="Python.07. Greater of Two Values_v2" />
+      <item itemvalue="Python.08. Multiply Evens by Odds" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05. Print Numbers with Step" />
-        <item itemvalue="Python.04. Numbers from 1 to 10" />
-        <item itemvalue="Python.03. Extended Person Info" />
-        <item itemvalue="Python.02. Person Info" />
-        <item itemvalue="Python.01. Hello World" />
+        <item itemvalue="Python.08. Multiply Evens by Odds" />
+        <item itemvalue="Python.07. Greater of Two Values_v2" />
+        <item itemvalue="Python.07. Greater of Two Values" />
+        <item itemvalue="Python.06. Math Power" />
+        <item itemvalue="Python.05. Calculate Triangle Area" />
       </list>
     </recent_temporary>
   </component>
@@ -507,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532313316056</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="novi zadachi functs">
+      <created>1532480287760</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1532480287761</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -518,12 +532,12 @@
       <window_info id="DB Browser" order="0" weight="0.32977587" />
       <window_info anchor="bottom" id="DB Execution Console" order="0" weight="0.32894737" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50213444" side_tool="true" weight="0.3366228" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49786553" visible="true" weight="0.43956044" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.49786553" visible="true" weight="0.32637364" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32858709" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32894737" />
       <window_info anchor="right" id="Graph Database" order="0" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49786553" weight="0.32894737" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16435432" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16595517" />
       <window_info anchor="bottom" id="Graph Database Console" order="1" weight="0.32894737" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.32747254" />
@@ -541,6 +555,7 @@
       <window_info anchor="bottom" id="DB Execution Console" order="0" weight="0.32894737" />
       <window_info anchor="right" id="Graph Database" order="0" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32858709" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12433298" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
@@ -549,17 +564,16 @@
       <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49786553" visible="true" weight="0.30235043" />
       <window_info id="DB Browser" order="0" weight="0.32977587" />
       <window_info anchor="bottom" id="Graph Database Console" order="1" weight="0.32894737" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32894737" />
-      <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.3986711" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49786553" weight="0.32894737" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50213444" side_tool="true" weight="0.3366228" />
+      <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="right" id="Data View" order="4" weight="0.3299639" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32894737" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -572,7 +586,8 @@
     <MESSAGE value="reformat" />
     <MESSAGE value="novi zadachi" />
     <MESSAGE value="novi zadachi loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="novi zadachi loop" />
+    <MESSAGE value="novi zadachi functs" />
+    <option name="LAST_COMMIT_MESSAGE" value="novi zadachi functs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -593,99 +608,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/09. Vowels Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" lean-forward="true" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd / Even Position.py" />
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/10. Half Sum Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.5/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/12. Equal Pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/11. Odd Even Position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/14. Деление без остатък.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="12" lean-forward="true" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/13. Histogram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/05. Loops/Test Problems/15. Умната Лили.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/01. Rectangle of 10 x 10 Stars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/02. Rectangle of N x N Stars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/03. Square of Stars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/06. Drawing-with-Loops/11. Diamond_v2.py" />
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/02. Numbers N to 1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/01. Numbers 1 to N with Step 3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/03. Powers of Two.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -811,9 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/15. 3 Equal Numbers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/14. Time + 15 Minutes.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -883,17 +802,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/03. Extended Person Info.py">
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/05. Print Numbers with Step.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/02. Person Info.py">
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/03. Extended Person Info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="300">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -904,7 +823,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/05. Print Numbers with Step.py">
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro/02. Person Info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -914,7 +833,91 @@
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/01. Blank Receipt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/02. Sign of Integer Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/03. Printing Triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/04. Triangle of 55 Stars.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/05. Rectangle Area.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/01. Първи стъпки в програмирането/06. Square of Stars.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/04. Draw a Filled Square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/04a. Draw a Filled Square_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/05. Calculate Triangle Area.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/06. Math Power.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07. Greater of Two Values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07a. Greater of Two Values_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/03. Even or Odd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/05. Number 0...9 to Text.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/07. Sum Seconds.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/15. 3 Equal Numbers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/08. Multiply Evens by Odds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
