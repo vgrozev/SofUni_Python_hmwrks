@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="novi zadachi lists">
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/05. Count of Odd Numbers in List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/06. Odd Numbers at Odd Positions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/04. Rotate List of Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/04. Rotate List of Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="novi zadachi lists" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="2085928797">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -53,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/04. Rotate List of Strings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-end-line="7" selection-end-column="24" />
+              <caret line="3" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -62,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/05. Count of Odd Numbers in List.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-end-line="7" selection-end-column="16" />
+              <caret line="1" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -70,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/06. Odd Numbers at Odd Positions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -164,11 +167,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="5" />
-    <option name="y" value="24" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="114" />
+    <option name="y" value="105" />
     <option name="width" value="1719" />
-    <option name="height" value="1056" />
+    <option name="height" value="894" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -178,7 +181,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,6 +203,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -617,11 +620,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="5" y="24" width="1719" height="1056" extended-state="4" />
-    <editor active="true" />
+    <frame x="114" y="105" width="1719" height="894" extended-state="0" />
     <layout>
       <window_info id="DB Browser" order="0" weight="0.32977587" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15122534" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15106635" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="DB Execution Console" order="0" weight="0.32894737" />
@@ -988,14 +990,14 @@
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/04. Rotate List of Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-end-line="7" selection-end-column="24" />
+          <caret line="3" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/05. Count of Odd Numbers in List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-end-line="7" selection-end-column="16" />
+          <caret line="1" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1008,8 +1010,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/06. Odd Numbers at Odd Positions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
