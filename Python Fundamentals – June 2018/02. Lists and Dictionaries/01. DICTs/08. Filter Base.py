@@ -45,13 +45,9 @@ filter_by = input()
 # for key in employee:
 #     print(f"{key} -> {employee[key]}")
 
-if filter_by == 'Position':
-    for name in employee:
-        print(f'Name: {name}')
-        print("{}: {}".format(filter_by, employee[name][filter_by]))
-        print("=" * 20)
-else:
-    for name in sorted(employee, reverse=True):
+
+for name in sorted(employee, reverse=True):
+    if filter_by in employee[name]:
         print(f'Name: {name}')
         print(f'{filter_by}: {employee[name][filter_by]}')
         print("=" * 20)
