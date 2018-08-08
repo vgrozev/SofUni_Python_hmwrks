@@ -29,12 +29,12 @@ while raw_data != 'filter base':
     if name not in employee:
         employee[name] = {}
 
-    if is_int(user_info):
-        employee[name]['Age'] = int(user_info)
+    if user_info.isnumeric():
+            if user_info.isdigit():
+                employee[name]['Age'] = int(user_info)
 
-    elif is_float(user_info):
-        employee[name]['Salary'] = float(user_info)
-
+            else:
+                employee[name]['Salary'] = float(user_info)
     else:
         employee[name]['Position'] = user_info
 

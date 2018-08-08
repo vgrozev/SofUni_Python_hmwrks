@@ -17,4 +17,4 @@ def is_float(n):
         return True
 
 
-print(is_float(20))
+print(float('20.0'))
