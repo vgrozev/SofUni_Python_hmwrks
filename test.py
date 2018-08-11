@@ -17,4 +17,5 @@
 #         return True
 
 
-print('asdf'.isnumeric())
+
+print(int('20'))

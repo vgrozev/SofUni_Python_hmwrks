@@ -29,10 +29,12 @@ while raw_data != 'filter base':
     if name not in employee:
         employee[name] = {}
 
-    if user_info.isnumeric():
-        employee[name]['Age'] = int(user_info)
+    if is_int(user_info):
+        employee[name]['Age'] = int(float(user_info))
+
     elif is_float(user_info):
         employee[name]['Salary'] = float(user_info)
+
     else:
         employee[name]['Position'] = user_info
 
@@ -44,7 +46,7 @@ filter_by = input()
 #     print(f"{key} -> {employee[key]}")
 
 
-for name in sorted(employee, reverse=True):
+for name in employee:
     if filter_by in employee[name]:
         print(f'Name: {name}')
         print(f'{filter_by}: {employee[name][filter_by]}')
