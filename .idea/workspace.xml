@@ -365,19 +365,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vstoyano\PycharmProjects\SofUni_Python_hmwrks\Python Fundamentals – June 2018\02. Lists and Dictionaries\01. DICTs" />
-      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries" />
-      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/08. Exam Preparation" />
-      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops" />
-      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/LISTS" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/demos" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/data" />
       <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/csv_files" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro" />
+      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code" />
+      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/00. LISTS" />
+      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/01. DICTs" />
+      <recent name="C:\Users\vstoyano\PycharmProjects\SofUni_Python_hmwrks\Python Fundamentals – June 2018\02. Lists and Dictionaries\01. DICTs" />
     </key>
   </component>
   <component name="RunDashboard">
