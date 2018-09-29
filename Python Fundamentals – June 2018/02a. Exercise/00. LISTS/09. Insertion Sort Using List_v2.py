@@ -8,9 +8,10 @@ for i in range(1, lists_size):
 
     inserted = False
 
+    # compare the element at index i to all the already available elements in 'sorted_list'
     for j in range(0, lists_size):
 
-        # if the indexes are equal, that means that the sorted list ran out of elements and a new one has to be inserted
+        # if the indexes are equal, that means that the sorted_list ran out of elements and a new one has to be inserted
         if j == i or input_list[i] < sorted_list[j]:
 
             sorted_list.insert(j, input_list[i]) # insert at the index of the larger element
