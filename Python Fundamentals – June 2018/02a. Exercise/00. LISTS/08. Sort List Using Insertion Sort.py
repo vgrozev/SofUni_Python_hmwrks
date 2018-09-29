@@ -1,8 +1,5 @@
 data = list(map(int, input().split()))
 
-initial_condition = True
-swapped = False
-
 for i in range(1, len(data)):
 
     # starts assuming that the first element is the smallest and already sorted.
