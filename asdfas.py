@@ -1,3 +1,6 @@
 list_a = [1,2]
 
-print(len(list_a))
+if 'X' in 'testX':
+    print('testX')
+
+print('X' in 'XUL')
