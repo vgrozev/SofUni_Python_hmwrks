@@ -1,6 +1,4 @@
-list_a = [1,2]
+a = 'a'
+b = 'b'
 
-if 'X' in 'testX':
-    print('testX')
-
-print('X' in 'XUL')
+print(a + b)

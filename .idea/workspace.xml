@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd3e95ab-fb84-41cd-8d6e-c12c1d457219" name="Default" comment="novi zadachi dicts2">
-      <change afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/15. Stupid Password Generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/16. Magic Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/17. Special Numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/14. Stupid Password Generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Simple-Calculations-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Simple-Conditions-Exercises.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Basics with Python - април 2018/08. Exam Preparation/Exam-Preparation-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/02. Travel Company.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/02. Travel Company.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asdfas.py" beforeDir="false" afterPath="$PROJECT_DIR$/asdfas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,39 +57,39 @@
           <entry key="project.closed" value="15" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="6" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="3" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="8" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="213" />
+          <entry key="py" value="222" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="213" />
+          <entry key="Python" value="222" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="22" />
           <entry key="dummy" value="3" />
-          <entry key="py" value="11916" />
+          <entry key="py" value="11982" />
           <entry key="txt" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="11938" />
+          <entry key="Python" value="12004" />
         </counts>
       </usages-collector>
     </session>
@@ -126,24 +126,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/01. Key-Key Value-Value.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/02. Travel Company.py">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/13. Area of Figures.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/15. Stupid Password Generator.py">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/20. Furm.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -152,25 +143,34 @@
         <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/16. Magic Numbers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="3" selection-end-line="10" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/17. Special Numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="5" column="34" selection-start-line="3" selection-end-line="10" selection-end-column="91" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/01. DICTs/05. Mixed Phones.py">
+        <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/15. Stupid Password Generator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="15" selection-end-line="19" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/asdfas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -222,10 +222,21 @@
       <find>KEY_COUNTRY</find>
       <find>bla \= 13\n\nbla \= \&quot;bla\&quot;</find>
       <find>clothes_list</find>
+      <find>area</find>
+      <find>triangle</find>
+      <find>Боядисване на къща</find>
+      <find>Need more</find>
+      <find>Need</find>
+      <find>budg</find>
+      <find>Spent</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Programming Basics with Python - април 2018</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="ONTO" value="refs/remotes/origin/master" />
@@ -236,7 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/05. Calculate Triangle Area.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07. Greater of Two Values.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/07. Greater of Two Values_v2.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/01. Functions Debugging and Troubleshooting Code/08. Multiply Evens by Odds.py" />
@@ -280,13 +290,14 @@
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/12. Fibonacci.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/00. LISTS/09. Insertion Sort Using List_v2.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/00. LISTS/10. Largest N Elements.py" />
-        <option value="$PROJECT_DIR$/asdfas.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/01. Key-Key Value-Value_v2.py" />
         <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/01. Key-Key Value-Value.py" />
-        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/02. Travel Company.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/02. Magic Numbers.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/14. Stupid Password Generator.py" />
         <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/17. Special Numbers.py" />
+        <option value="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/02. Travel Company.py" />
+        <option value="$PROJECT_DIR$/Programming Basics with Python - април 2018/08. Exam Preparation/01. Daily Earnings.py" />
+        <option value="$PROJECT_DIR$/asdfas.py" />
       </list>
     </option>
   </component>
@@ -297,10 +308,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
     <option name="y" value="38" />
-    <option name="width" value="1658" />
-    <option name="height" value="992" />
+    <option name="width" value="1656" />
+    <option name="height" value="995" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -310,6 +320,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -320,31 +331,13 @@
             <path>
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
               <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
-              <item name="Programming Basics with Python - април 2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
-              <item name="Programming Basics with Python - април 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="07. Advanced Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
-              <item name="Programming Basics with Python - април 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="07. Advanced Loops" type="462c0819:PsiDirectoryNode" />
-              <item name="Test Problems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
-              <item name="Programming Basics with Python - април 2018" type="462c0819:PsiDirectoryNode" />
-              <item name="08. Exam Preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Fundamentals – June 2018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
               <item name="SofUni_Python_hmwrks" type="462c0819:PsiDirectoryNode" />
               <item name="Python Fundamentals – June 2018" type="462c0819:PsiDirectoryNode" />
+              <item name="01. Functions Debugging and Troubleshooting Code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SofUni_Python_hmwrks" type="b2602c69:ProjectViewProjectNode" />
@@ -376,7 +369,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
@@ -386,19 +378,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/LISTS" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/demos" />
-      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/data" />
-      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/csv_files" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions" />
       <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs" />
       <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/01. DICTs" />
       <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/00. LISTS" />
       <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/00. LISTS" />
-      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/00. Course Overview Python Intro" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Programming Basics with Python - април 2018/08. Exam Preparation/Simple Calculations" />
+      <recent name="$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/LISTS" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/demos" />
+      <recent name="$PROJECT_DIR$/Python_3_Programming_January_and_July_2016/Lecture_8/data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -413,7 +405,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17. Special Numbers">
+  <component name="RunManager" selected="Python.asdfas">
     <configuration name="01. Key-Key Value-Value" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SofUni_Python_hmwrks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -528,11 +520,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.asdfas" />
         <item itemvalue="Python.17. Special Numbers" />
         <item itemvalue="Python.02. Magic Numbers" />
         <item itemvalue="Python.14. Stupid Password Generator" />
         <item itemvalue="Python.01. Key-Key Value-Value" />
-        <item itemvalue="Python.asdfas" />
       </list>
     </recent_temporary>
   </component>
@@ -546,13 +538,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508103981040</updated>
-    </task>
-    <task id="LOCAL-00007" summary="reformat">
-      <created>1525243929964</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1525243929964</updated>
     </task>
     <task id="LOCAL-00008" summary="reformat">
       <created>1526254362552</created>
@@ -890,23 +875,29 @@
       <option name="project" value="LOCAL" />
       <updated>1538710754629</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="novi zadachi dicts2">
+      <created>1538714670986</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1538714670987</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="38" width="1920" height="1042" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="7" />
     <layout>
       <window_info id="DB Browser" order="0" weight="0.32977587" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18951826" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22022234" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="DB Execution Console" order="0" weight="0.32894737" />
       <window_info anchor="bottom" id="Graph Database Console" order="1" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49551925" visible="true" weight="0.26622662" />
-      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49946696" weight="0.3242059" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32893288" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49551925" weight="0.28074247" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49946696" visible="true" weight="0.31045407" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5044808" side_tool="true" weight="0.2365827" />
@@ -1017,37 +1008,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/00. LISTS/02. Split by Word Casing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="41" selection-start-line="31" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/00. LISTS/08. Append Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/00. LISTS/03. Count Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" lean-forward="true" selection-start-column="1" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/04. Greater Number.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/00. LISTS/04. List Contains Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/00. LISTS/05. Smallest Element in List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1192,20 +1152,6 @@
     <entry file="file://$PROJECT_DIR$/sasho_test.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asdfas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/01. DICTs/03. Letter Repetition.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1237,12 +1183,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/01. Key-Key Value-Value_v2.py" />
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/01. Key-Key Value-Value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/17. Special Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/01. DICTs/05. Mixed Phones.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/02. Travel Company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/17. Дневна печалба.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/08. Exam Preparation/01. Simple Calculations/01. Daily Earnings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/02. Прости пресмятания/Test Problems/16. Money.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/13. Area of Figures.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/01. DICTs/06. Exam Shopping.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1268,41 +1260,38 @@
     <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02. Lists and Dictionaries/01. DICTs/08. Filter Base_v2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/01. Key-Key Value-Value_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/01. Key-Key Value-Value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Fundamentals – June 2018/02a. Exercise/01. DICTs/02. Travel Company.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/15. Stupid Password Generator.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/03. Simple-Conditions/Test Problems/20. Furm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/16. Magic Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="3" selection-end-line="10" selection-end-column="91" />
+          <caret line="5" column="34" selection-start-line="3" selection-end-line="10" selection-end-column="91" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/17. Special Numbers.py">
+    <entry file="file://$PROJECT_DIR$/Programming Basics with Python - април 2018/07. Advanced Loops/Test Problems/15. Stupid Password Generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdfas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
