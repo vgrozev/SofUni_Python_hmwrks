@@ -1,19 +1,19 @@
 def print_header():
-    print()
+    return "CASH RECEIPT\n------------------------------"
 
 
-def print_boady():
-    print()
+def print_body():
+    return "Charged to____________________\nReceived by___________________"
 
 
 def print_footer():
-    print()
+    return "------------------------------\n\u00A9 SoftUni"
 
 
-def print_receipt():
-    print_header()
-    print_boady()
-    print_footer()
+def receipt():
+    print(print_header())
+    print(print_body())
+    print(print_footer())
 
 
-print_receipt()
+receipt()

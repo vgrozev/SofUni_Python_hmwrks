@@ -1,4 +1,10 @@
-a = 'a'
-b = 'b'
+a = "zyzzzzzzzzzzzzzzzz"
+print(len(a))
+b = "zzyyyyyyyy"
 
-print(a + b)
+if a > b:
+    print("a e po golqmo!")
+elif a == b:
+    print("a == b")
+else:
+    print("b e po golimo!")
