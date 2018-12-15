@@ -1,6 +1,5 @@
 data = list(map(float, input().split()))
 
-count = len(data)
 i = 0
 while i < (len(data) - 1):
     if data[i] == data[i + 1] and i >= 0:
