@@ -6,3 +6,4 @@ for element in data:
     if element < smallestInt:
         smallestInt = element
 print(smallestInt)
+
