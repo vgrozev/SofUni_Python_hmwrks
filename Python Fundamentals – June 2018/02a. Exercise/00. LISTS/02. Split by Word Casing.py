@@ -41,7 +41,6 @@ for sep_char in separator_list:
     raw_data = raw_data.replace(sep_char, ' ')
 
 temp_list = raw_data.split()
-#print(temp_list)
 for item in temp_list:
     if item == item.lower() and item.isalpha():
         lower_case_list.append(item)
