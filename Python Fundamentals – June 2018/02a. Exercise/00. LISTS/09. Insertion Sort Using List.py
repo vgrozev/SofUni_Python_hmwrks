@@ -9,7 +9,7 @@ for i in range(0, lists_size):
 
     inserted = False
     # if the sorted lis is empty, or
-    # if item with the sam index from input is smaller then the item at that index in the sorted list,
+    # if item with the same index from input is smaller then the item at that index in the sorted list,
     # insert the first one at the index of the second one
     for j in range(0, lists_size):
         if sorted_list[j] is None or input_list[i] < sorted_list[j]:

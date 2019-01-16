@@ -7,3 +7,4 @@ for i in range(0, int(len(data)/2)):
     data[i] = temp_int
 
 print(*data)
+
