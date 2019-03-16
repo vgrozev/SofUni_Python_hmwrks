@@ -8,6 +8,5 @@ for i in range(1, len(data)):
     while data[i] < data[i - 1] and i > 0:
         data[i], data[i - 1] = data[i - 1], data[i]
         i -= 1
-        #print(data)
 
 print(*data)
